@@ -1,4 +1,4 @@
-# 📓 Blog Sphere
+# 📓 Fastapi Blog
 A Full-Stack Blog Application built with FastAPI and React.
 
 ### Features:
